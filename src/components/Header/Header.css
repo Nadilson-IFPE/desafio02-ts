@@ -1,3 +1,9 @@
 .header {
+    height: 80px;
     background-color: orange;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bolder;
 }
